@@ -5,4 +5,8 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="tv_parse_json_str">Parse JSON from http://api.androidhive.info/contacts</string>
+    <string name="btn_parse_json_str">Parse JSON</string>
+    <string name="tv_parse_xml_str">Parse XML from employees.xml</string>
+    <string name="btn_parse_xml_str">Parse XML</string>
 </resources>
